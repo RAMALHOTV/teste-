@@ -1,3 +1,6 @@
+<tv generator-info-name="My Streaming Server" generator-info-url="http://185.93.1.216:8080/">
+
+
 </channel>
 <channel id="LCH57">
 <display-name>GLOBO SP SD H264</display-name>
